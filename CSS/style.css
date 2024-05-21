@@ -1,6 +1,6 @@
 :root {
-  --primary: #0a310a;
-  --bg: #42703e;
+  --primary: #2e4121;
+  --bg: #405630;
 }
 
 * {
@@ -25,7 +25,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1.4rem 7%;
-  background-color: rgba(10, 49, 10, 0.8);
+  background-color: #2e4121;
   border-bottom: 1px solid #fff;
   position: fixed;
   top: 0;
@@ -35,9 +35,9 @@ body {
 }
 
 .navbar .navbar-logo {
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 700;
-  color: black;
+  color: #fff;
   font-style: italic;
 }
 
